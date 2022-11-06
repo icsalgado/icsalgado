@@ -1,8 +1,8 @@
 
 
 <a href="https://github.com/icsalgado">
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=icsalgado&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues"/>
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=icsalgado&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=issues"/>
   
   
  
