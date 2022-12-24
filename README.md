@@ -4,7 +4,7 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="left" >
 
 <h3 align="center">Web Hosting Operations Analyst at <img width="150" src="https://king.host/wiki/wp-content/uploads/2021/09/kinghost.png" /></h3>
-<h4>I have just over 10 years of experience with client support. Today my job is help people in websities and applications hosting operations. I deal with different technologies like C#, .Net, Javascript, SQL, web servers/services/protocols and I have more experience in PHP applications.
+<h4>I have just over 10 years of experience in customer support. Today my job is help people in websities and applications hosting operations. I deal with different technologies like C#, .Net, Javascript, SQL, web servers/services/protocols and I have more experience in PHP applications.
 I'm in college, last year of Computer Networks at <img width="80" src="https://academicos.uniritter.edu.br/temas/__comum/img/especifico/anima-v1/uniritter/logo_login.png" /> and just beginning Systems for internet at <img width="10" src="https://www.poa.ifrs.edu.br/images/logos/if.png" /><b> IFRS</b>.
 I really love programming, technologies, Linux administration and DevOps culture, I'm happy to share this with the community. </h4>
 
