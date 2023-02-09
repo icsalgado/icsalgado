@@ -6,7 +6,7 @@
 <h3 align="center"Applications Hosting Analyst at <img width="150" src="https://king.host/wiki/wp-content/uploads/2021/09/kinghost.png" /></h3>
 <h4>I have more than 10 years of experience with customer support. Today, my job is to help other developers to deploy their app’s. I deal with different technologies like C#/DotNet, Java, Javascript, SQL, servers/services & web protocols. I'm developing more my skills in PHP and Java. I usually practice and work hard on my tools to develop algorithms that solve problems in different technologies, keeping up to date and always learning something new.
 I really love programming, technologies, Linux administration and DevOps culture, I'm happy to share this with the community. </h4>
-
+<br>
 ### Practicing ...
 <div align="center">
 <p align="center">
