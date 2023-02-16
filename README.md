@@ -9,7 +9,6 @@ I really love programming, technologies, Linux administration and DevOps culture
 
 <br>
 
-
 ### Practicing ...
 <div align="center">
 <p align="center">
