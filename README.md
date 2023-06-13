@@ -9,7 +9,7 @@ I really love programming, technologies, Linux administration and DevOps culture
 
 <br>
 
-
+<!--
 ### Practicing ...
 <div align="center">
 <p align="center">
@@ -39,11 +39,16 @@ I really love programming, technologies, Linux administration and DevOps culture
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+-->
 
+<div align="center">
 <a href="http://www.github.com/icsalgado"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-  
+</div>
+
+<!--
 <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
-</a>  
+</a>
+-->
   
 ![Snake animation](https://github.com/icsalgado/icsalgado/blob/output/github-contribution-grid-snake.svg)
 </div>
