@@ -40,12 +40,10 @@ I really love programming, technologies, Linux administration and DevOps culture
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-                  
 <a href="http://www.github.com/icsalgado"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
-</a>
-
   
+<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
+</a>  
   
 ![Snake animation](https://github.com/icsalgado/icsalgado/blob/output/github-contribution-grid-snake.svg)
 </div>
