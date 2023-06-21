@@ -3,9 +3,10 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Iuri Salgado
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="left" >
 
-<h3 align="center"Applications Hosting Analyst at <img width="150" src="https://king.host/wiki/wp-content/uploads/2021/09/kinghost.png" /></h3>
-<h4>I have more than 10 years of experience with customer support. Today, my job is to help other developers to deploy their app’s. I deal with different technologies like C#/DotNet, Java, Javascript, SQL, servers/services & web protocols. I'm developing more my skills in PHP and Java. I usually practice and work hard on my tools to develop algorithms that solve problems in different technologies, keeping up to date and always learning something new.
-I really love programming, technologies, Linux administration and DevOps culture, and I'm happy to share this with the community. </h4>
+<h3 align="center">Applications Hosting Analyst at <img align="center" width="170" src="https://king.host/wiki/wp-content/uploads/2021/09/kinghost.png" /></h3>
+
+<h4>I have over 10 years of customer support experience. Today, my job is to help other developers deploy their applications. Dealing with different technologies, I am developing more my skills in PHP and DevOps tools, keeping up to date and always learning something new.
+I really love programming, technologies, Linux administration and DevOps culture, and I’m happy to share this with the community. </h4>
 
 <br>
 
@@ -40,12 +41,12 @@ I really love programming, technologies, Linux administration and DevOps culture
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 -->
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-
-<!--
-<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
-</a>
--->
+<div align="center" >
+<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
+<img align="center" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
+</div>
   
 ![Snake animation](https://github.com/icsalgado/icsalgado/blob/output/github-contribution-grid-snake.svg)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173607445&count=3&width=1000)
+
