@@ -46,8 +46,8 @@ I really love programming, technologies, Linux administration and DevOps culture
 ![Snake animation](https://github.com/icsalgado/icsalgado/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" >
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
-<img align="center" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
+<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=icsalgado&stroke=facc15&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=facc15&currStreakLabel=14b8a6&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
+<img align="center" width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icsalgado&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173607445&count=3&width=1000)
