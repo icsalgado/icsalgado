@@ -41,8 +41,7 @@ I really love programming, technologies, Linux administration and DevOps culture
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 -->
-
-  
+ 
 ![Snake animation](https://github.com/icsalgado/icsalgado/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" >
