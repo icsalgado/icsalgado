@@ -12,6 +12,7 @@
             <ul>
                 <li>About Linux
                     <ul>
+                        <li><a href="https://github.com/icsalgado/tracks/blob/master/Linux/readme.md">Readme</a></li>
                         <li><a href="https://github.com/icsalgado/tracks/tree/master/Linux/DIO_LinuxDoZero">DIO - Linux do Zero</a></li>
                         <li><a href="https://github.com/icsalgado/tracks/tree/master/Linux/DIO_LinuxExperience">DIO - Linux Experience</a></li>
                         <li><a href="https://github.com/icsalgado/tracks/tree/master/Linux/DIO_LinuxFundamentals">DIO - Linux Fundamentals</a></li>
